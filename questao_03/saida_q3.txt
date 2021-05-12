@@ -1,0 +1,67 @@
+Ano  -  Estado -  Cidade - Valor adicionado Serviços - Valor adicionado bruto total  
+2018 - Amazonas - Alvarães - R$27302000 - R$167148000
+2018 - Amazonas - Amaturá - R$14318000 - R$81802000
+2018 - Amazonas - Anamã - R$18763000 - R$114419000
+2018 - Amazonas - Anori - R$29587000 - R$213857000
+2018 - Amazonas - Apuí - R$45064000 - R$205694000
+2018 - Amazonas - Atalaia do Norte - R$20909000 - R$139799000
+2018 - Amazonas - Autazes - R$70991000 - R$345182000
+2018 - Amazonas - Barcelos - R$33508000 - R$164259000
+2018 - Amazonas - Barreirinha - R$45963000 - R$252262000
+2018 - Amazonas - Benjamin Constant - R$64150000 - R$298451000
+2018 - Amazonas - Beruri - R$28745000 - R$148329000
+2018 - Amazonas - Boa Vista do Ramos - R$26982000 - R$136587000
+2018 - Amazonas - Boca do Acre - R$103129000 - R$393737000
+2018 - Amazonas - Borba - R$63705000 - R$294277000
+2018 - Amazonas - Caapiranga - R$22912000 - R$153875000
+2018 - Amazonas - Canutama - R$20099000 - R$104297000
+2018 - Amazonas - Carauari - R$73777000 - R$294077000
+2018 - Amazonas - Careiro - R$62189000 - R$302608000
+2018 - Amazonas - Careiro da Várzea - R$29117000 - R$333587000
+2018 - Amazonas - Coari - R$441067000 - R$1938814000
+2018 - Amazonas - Codajás - R$41548000 - R$495019000
+2018 - Amazonas - Eirunepé - R$68845000 - R$509167000
+2018 - Amazonas - Envira - R$26998000 - R$155306000
+2018 - Amazonas - Fonte Boa - R$40370000 - R$174360000
+2018 - Amazonas - Guajará - R$23267000 - R$119899000
+2018 - Amazonas - Humaitá - R$192778000 - R$584112000
+2018 - Amazonas - Ipixuna - R$22587000 - R$149816000
+2018 - Amazonas - Iranduba - R$159119000 - R$649139000
+2018 - Amazonas - Itacoatiara - R$752383000 - R$1773098000
+2018 - Amazonas - Itamarati - R$17709000 - R$92316000
+2018 - Amazonas - Itapiranga - R$21894000 - R$106348000
+2018 - Amazonas - Japurá - R$11516000 - R$61481000
+2018 - Amazonas - Juruá - R$16507000 - R$101458000
+2018 - Amazonas - Jutaí - R$43307000 - R$218945000
+2018 - Amazonas - Lábrea - R$90890000 - R$477611000
+2018 - Amazonas - Manacapuru - R$303777000 - R$1383535000
+2018 - Amazonas - Manaquiri - R$35577000 - R$269266000
+2018 - Amazonas - Manaus - R$27665796000 - R$63229972000
+2018 - Amazonas - Manicoré - R$111303000 - R$510062000
+2018 - Amazonas - Maraã - R$16926000 - R$126170000
+2018 - Amazonas - Maués - R$123038000 - R$476429000
+2018 - Amazonas - Nhamundá - R$33083000 - R$146687000
+2018 - Amazonas - Nova Olinda do Norte - R$46154000 - R$239038000
+2018 - Amazonas - Novo Airão - R$33384000 - R$131509000
+2018 - Amazonas - Novo Aripuanã - R$33821000 - R$193965000
+2018 - Amazonas - Parintins - R$287965000 - R$1072470000
+2018 - Amazonas - Pauini - R$26627000 - R$153768000
+2018 - Amazonas - Presidente Figueiredo - R$151527000 - R$797413000
+2018 - Amazonas - Rio Preto da Eva - R$69970000 - R$366609000
+2018 - Amazonas - Santa Isabel do Rio Negro - R$19572000 - R$134742000
+2018 - Amazonas - Santo Antônio do Içá - R$29787000 - R$176018000
+2018 - Amazonas - São Gabriel da Cachoeira - R$93284000 - R$312243000
+2018 - Amazonas - São Paulo de Olivença - R$40892000 - R$246125000
+2018 - Amazonas - São Sebastião do Uatumã - R$21657000 - R$114054000
+2018 - Amazonas - Silves - R$15732000 - R$99139000
+2018 - Amazonas - Tabatinga - R$171418000 - R$498645000
+2018 - Amazonas - Tapauá - R$32525000 - R$244173000
+2018 - Amazonas - Tefé - R$241967000 - R$888681000
+2018 - Amazonas - Tonantins - R$22118000 - R$131014000
+2018 - Amazonas - Uarini - R$32504000 - R$182543000
+2018 - Amazonas - Urucará - R$37305000 - R$324848000
+2018 - Amazonas - Urucurituba - R$35957000 - R$161288000
+
+Total valor bruto médio do setor de serviço: R$32505661
+Total valor bruto total médio adicionado: R$84361542
+Relação valor bruto médio do setor de serviço e valor bruto total médio adicionado no estado do AMAZONAS no ano de 2018: 38.53%

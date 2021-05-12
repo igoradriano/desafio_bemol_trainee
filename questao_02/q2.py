@@ -1,35 +1,9 @@
 #-*- coding:utf-8 -*-
+
+# Importando Bibliotecas
 import os
-# 1) MODOS DE PASSAR O CAMINHO DO ARQUIVO
-# Podemos inserir um caminho relativo ou absoluto para um arquivo com mesma estrutura, porém com nome e diretório diferentes. Ou simplesmente executar o este código com o arquivo no mesmo diretório deste código, porém este arquivo tem o nome igual ao fornecido pelo desafio.
-
-q1 = input("Deseja adicionar o caminho do arquivo[S/N]?  ").upper().strip()
-while q1 not in ['S','N','SIM','NÃO','NAO']:
-    q1 = input("Digite apenas ['S' para sim ou 'N' para não). Deseja adicionar o caminho do arquivo ?  ").upper().strip()
-
-# Pede o nome, caminho e extensão, caso o usuário queira inserir um arquivo com outro nome e arquivado em outro diretório
-if q1 in ['S','SIM']:
-    extensao = input("Qual a extensão do arquivo(sem o ponto)? ").lower()
-    nome = input("Digite o nome do arquivo: ")
-    caminho = input('Digite o Caminho do arquivo: ')
-# Abre o arquivo guardado na mesma pasta deste código (caso o usuário não queira inserir o caminho do arquivo)
-else:
-    extensao = 'txt'
-    nome = 'pib_municipio_2010_a_2018'
-    caminho = './dataset'
-
-
-#-------------------------------------------------------------------------------------------------------
-# 2) ABRINDO O ARQUIVO PARA LEITURA
-# precisamos adicionar um parâmetro a mais no 'open'. O encoding='utf-8'para especificar a codificação dos caractéres.
-# A codificação baseada em Unicode, tal como UTF-8, oferece suporte para vários idiomas e assim sendo admite páginas e formulários em qualquer combinação de idiomas.
-
-f = open(f'{caminho}/{nome}.{extensao}','r', encoding="utf-8")
-arquivo = []
-f.readline()
-for linha in f:
-    arquivo.append(linha.split(';'))
-f.close()
+import funcoes
+arquivo = funcoes.open_file_mod()
 
 #-------------------------------------------------------------------------------------------------------
 
