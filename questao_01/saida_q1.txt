@@ -1,0 +1,11 @@
+Ano  -  Estado -  Cidade - Pib per capita
+2010 - Amazonas - Manaus - R$27832.52
+2011 - Amazonas - Manaus - R$30303.38
+2012 - Amazonas - Manaus - R$29837.10
+2013 - Amazonas - Manaus - R$32201.90
+2014 - Amazonas - Manaus - R$33370.72
+2015 - Amazonas - Manaus - R$32597.83
+2016 - Amazonas - Manaus - R$33534.48
+2017 - Amazonas - Manaus - R$34373.88
+2018 - Amazonas - Manaus - R$36445.75
+Pib per capita médio de MANAUS: 32278.00

@@ -1,0 +1,29 @@
+RANKING 2015 - PIB PER CAPTA MÉDIO TODOS OS ESTADOS
+Posição  -      Estado         - Pib per capta médio
+   1     - Distrito Federal    - R$  73970.99
+   2     - Rio de Janeiro      - R$  34164.45
+   3     - Mato Grosso do Sul  - R$  32491.69
+   4     - Mato Grosso         - R$  31206.95
+   5     - Rio Grande do Sul   - R$  30934.94
+   6     - São Paulo           - R$  29887.32
+   7     - Santa Catarina      - R$  28646.16
+   8     - Espírito Santo      - R$  27601.92
+   9     - Paraná              - R$  26046.95
+  10     - Goiás               - R$  23930.01
+  11     - Rondônia            - R$  16845.56
+  12     - Minas Gerais        - R$  16425.13
+  13     - Amapá               - R$  16039.28
+  14     - Tocantins           - R$  15541.48
+  15     - Roraima             - R$  14708.01
+  16     - Sergipe             - R$  13587.26
+  17     - Acre                - R$  12887.91
+  18     - Pará                - R$  12515.53
+  19     - Rio Grande do Norte - R$  11357.64
+  20     - Bahia               - R$  10726.95
+  21     - Pernambuco          - R$  10162.70
+  22     - Amazonas            - R$   9671.05
+  23     - Alagoas             - R$   9637.57
+  24     - Paraíba             - R$   8892.94
+  25     - Ceará               - R$   8844.05
+  26     - Maranhão            - R$   8193.78
+  27     - Piauí               - R$   8037.80
