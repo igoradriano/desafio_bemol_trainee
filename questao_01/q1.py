@@ -24,7 +24,8 @@ else:
 # precisamos adicionar um parâmetro a mais no 'open'. O encoding='utf-8'para especificar a codificação dos caractéres.
 # A codificação baseada em Unicode, tal como UTF-8, oferece suporte para vários idiomas e assim sendo admite páginas e formulários em qualquer combinação de idiomas.
 
-f = open(f'{caminho}/{nome}.{extensao}','r', encoding="utf-8")
+f = open(f'{caminho}/{nome}.{extensao}','r', encoding='utf-8')
+
 arquivo = []
 f.readline()
 for linha in f:

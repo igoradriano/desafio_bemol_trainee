@@ -31,7 +31,8 @@ else:
 
 dict_estados ={}
 for linha in arquivo:
-    dict_estados[linha[2]] = None
+    dict_estados['manus'] = None
+
 
 
 i = 0
